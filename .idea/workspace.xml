@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5356e488-4f8d-42a4-a5b8-4868c0a36d0d" name="Default Changelist" comment="" />
+    <list default="true" id="5356e488-4f8d-42a4-a5b8-4868c0a36d0d" name="Default Changelist" comment="new files">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table/Manadger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table/zone.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +38,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gIsS8Yswvx8Pm5ysfdHigZvSV4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +52,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -52,11 +76,28 @@
       <workItem from="1597941082937" duration="20725000" />
       <workItem from="1598027248993" duration="1755000" />
       <workItem from="1598323386634" duration="32000" />
+      <workItem from="1601357099492" duration="420000" />
+      <workItem from="1601357593314" duration="621000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597813695061">
@@ -67,10 +108,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="457" y="184" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1597813533653" />
+    <state x="422" y="53" width="727" height="624" key="Github.ShareDialog" timestamp="1601358339110">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="422" y="53" width="727" height="624" key="Github.ShareDialog/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1601358339110" />
+    <state x="483" y="87" key="Github.UntrackedFilesDialog" timestamp="1601358366793">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="483" y="87" key="Github.UntrackedFilesDialog/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1601358366793" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1597877147514">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1597877147514" />
+    <state x="314" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601358151253">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="314" y="145" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1601358151253" />
+    <state x="500" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601357922857">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="500" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1601357922857" />
     <state x="339" y="167" key="run.anything.popup" timestamp="1597966818636">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

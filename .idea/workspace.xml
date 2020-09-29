@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5356e488-4f8d-42a4-a5b8-4868c0a36d0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../untitled\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gIsS8Yswvx8Pm5ysfdHigZvSV4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Андрей\WebstormProjects\untitled\Топ 10" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5356e488-4f8d-42a4-a5b8-4868c0a36d0d" name="Default Changelist" comment="" />
+      <created>1597813441410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597813441410</updated>
+      <workItem from="1597813443693" duration="373000" />
+      <workItem from="1597823260801" duration="270000" />
+      <workItem from="1597863140867" duration="12752000" />
+      <workItem from="1597893133039" duration="5191000" />
+      <workItem from="1597941082937" duration="20725000" />
+      <workItem from="1598027248993" duration="1755000" />
+      <workItem from="1598323386634" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597813695061">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1597813695061" />
+    <state x="457" y="184" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597813533653">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="457" y="184" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1597813533653" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1597877147514">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1597877147514" />
+    <state x="339" y="167" key="run.anything.popup" timestamp="1597966818636">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="167" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1597966818636" />
+  </component>
+</project>
